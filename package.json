@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/naoufal/react-native-activity-view",
   "devDependencies": {
-    "eslint": "0.24.1",
+    "eslint": "7.10.0",
     "eslint-plugin-react": "2.7.1"
   }
 }
